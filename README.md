@@ -1,12 +1,12 @@
 ```markdown
 # Cascading Machine Learning Classifier
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8-orange)](https://www.tensorflow.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0.2-green)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
-
-A cascading machine learning system that sequentially applies models of increasing complexity to efficiently classify images while maintaining high accuracy.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-2.8-orange?style=for-the-badge&logo=tensorflow" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/scikit--learn-1.0.2-green?style=for-the-badge&logo=scikit-learn" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+</p>
 
 ## Table of Contents
 - [Project Overview](#project-overview)
